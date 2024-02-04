@@ -17,17 +17,7 @@ with May, Jun, and July having the most popularity. Movies released in Nov and D
 
 #### Movies popularity by month from year 2010 through 2015
 
-<style>
-  table {
-    border: 0; /* Remove table border */
-  }
-
-  td {
-    border: 0; /* Remove cell borders */
-  }
-</style>
-
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td></td>
      <td></td>
