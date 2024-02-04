@@ -19,16 +19,13 @@ with May, Jun, and July having the most popularity. Movies released in Nov and D
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td></td>
-     <td></td>
-     <td></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2010.png" ></td>
     <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2011.png"></td>
     <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2012.png"></td>
   </tr>
+   <tr>
+    <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2013.png" ></td>
+    <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2014.png"></td>
+    <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2015.png"></td>
+  </tr>
  </table>
-
-![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop.png) ![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2011.png)
-width=480 height=480
