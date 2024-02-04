@@ -15,4 +15,22 @@ Leveraging functionalities from pandas, NumPy, and matplotlib, I systematically 
 - I highlighted the first three months with the highest popularity in each year and its interesting to see that movies released in Jan are not really that popular. There was an observable increase in popularity from Feb to July
 with May, Jun, and July having the most popularity. Movies released in Nov and Dec are also mostly popular.
 
+#### Movies popularity by month from year 2010 through 2015
+
+<table>
+  <tr>
+    <td></td>
+     <td></td>
+     <td></td>
+      <td></td>
+       <td></td>
+       <td></td>
+  </tr>
+  <tr>
+    <td><img src="Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2010.png" width=270 height=480></td>
+    <td><img src="Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2011.png" width=270 height=480></td>
+    <td><img src="Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2012.png" width=270 height=480></td>
+  </tr>
+ </table>
+
 ![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop.png) ![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2011.png)
