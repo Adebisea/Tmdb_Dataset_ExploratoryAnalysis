@@ -22,9 +22,6 @@ with May, Jun, and July having the most popularity. Movies released in Nov and D
     <td></td>
      <td></td>
      <td></td>
-      <td></td>
-       <td></td>
-       <td></td>
   </tr>
   <tr>
     <td><img src="https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/ee4eb4531d8cbdaef193e929bc111a56677a1a47/asset/monthpop2010.png" width=270 height=480></td>
