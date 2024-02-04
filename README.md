@@ -34,8 +34,8 @@ with May, Jun, and July having the most popularity. Movies released in Nov and D
   ![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/68d9523476ae045269cbfe13fede2ebd4cedbcf8/asset/genrepop.png)
   
 - Movies with high popularity are mostly around the first 200 mins, with the peak popularity observed at approximately 120 minutes and beyond.
-- 
-![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/68d9523476ae045269cbfe13fede2ebd4cedbcf8/asset/runtimepop.png")
+  
+  ![Alt text](https://github.com/Adebisea/Tmdb_Dataset_ExploratoryAnalysis/blob/68d9523476ae045269cbfe13fede2ebd4cedbcf8/asset/runtimepop.png)
    
 
 
